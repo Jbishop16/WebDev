@@ -1,2 +1,2 @@
 # WebDev
-Web Development
+Enhancing knowledge of Web Development
